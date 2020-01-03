@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/PhotoWorld/static/js/main.92ea3e57.chunk.js",
-    "main.js.map": "/PhotoWorld/static/js/main.92ea3e57.chunk.js.map",
-    "runtime-main.js": "/PhotoWorld/static/js/runtime-main.0a6b267d.js",
-    "runtime-main.js.map": "/PhotoWorld/static/js/runtime-main.0a6b267d.js.map",
-    "static/js/2.86c0ceb0.chunk.js": "/PhotoWorld/static/js/2.86c0ceb0.chunk.js",
-    "static/js/2.86c0ceb0.chunk.js.map": "/PhotoWorld/static/js/2.86c0ceb0.chunk.js.map",
-    "index.html": "/PhotoWorld/index.html",
-    "precache-manifest.d3b84bca76ee67aaec514987afa161ae.js": "/PhotoWorld/precache-manifest.d3b84bca76ee67aaec514987afa161ae.js",
-    "service-worker.js": "/PhotoWorld/service-worker.js",
-    "static/js/2.86c0ceb0.chunk.js.LICENSE": "/PhotoWorld/static/js/2.86c0ceb0.chunk.js.LICENSE"
+    "main.js": "/PhotoWorld_using_React_Hooks/static/js/main.92ea3e57.chunk.js",
+    "main.js.map": "/PhotoWorld_using_React_Hooks/static/js/main.92ea3e57.chunk.js.map",
+    "runtime-main.js": "/PhotoWorld_using_React_Hooks/static/js/runtime-main.079f0177.js",
+    "runtime-main.js.map": "/PhotoWorld_using_React_Hooks/static/js/runtime-main.079f0177.js.map",
+    "static/js/2.86c0ceb0.chunk.js": "/PhotoWorld_using_React_Hooks/static/js/2.86c0ceb0.chunk.js",
+    "static/js/2.86c0ceb0.chunk.js.map": "/PhotoWorld_using_React_Hooks/static/js/2.86c0ceb0.chunk.js.map",
+    "index.html": "/PhotoWorld_using_React_Hooks/index.html",
+    "precache-manifest.dd90793ac9b0b5f20ad39ea8914a5a89.js": "/PhotoWorld_using_React_Hooks/precache-manifest.dd90793ac9b0b5f20ad39ea8914a5a89.js",
+    "service-worker.js": "/PhotoWorld_using_React_Hooks/service-worker.js",
+    "static/js/2.86c0ceb0.chunk.js.LICENSE": "/PhotoWorld_using_React_Hooks/static/js/2.86c0ceb0.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a6b267d.js",
+    "static/js/runtime-main.079f0177.js",
     "static/js/2.86c0ceb0.chunk.js",
     "static/js/main.92ea3e57.chunk.js"
   ]
